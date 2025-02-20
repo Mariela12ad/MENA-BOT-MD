@@ -24,9 +24,9 @@ global.owner = [
 global.mods = []
 global.prems = []
 
-global.packname = '(☞ﾟ∀ﾟ)☞'
+global.packname = '𝗛𝗮𝗰𝗵𝗶𝗸𝗼 𝗕𝗼𝘁 - 𝗠𝗗 🐶'
 global.author = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
-global.titulowm = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
+global.titulowm = '𝗛𝗮𝗰𝗵𝗶𝗸𝗼 𝗕𝗼𝘁 - 𝗠𝗗 🐶'
 global.wait = '⏱️ 𝗘𝘀𝗽𝗲𝗿𝗲 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻𝘁𝗼...'
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
