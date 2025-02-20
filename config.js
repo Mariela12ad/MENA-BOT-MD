@@ -24,9 +24,9 @@ global.owner = [
 global.mods = []
 global.prems = []
 
-global.packname = '𝗛𝗮𝗰𝗵𝗶𝗸𝗼 𝗕𝗼𝘁 - 𝗠𝗗 🐶'
-global.author = '𝑯𝒂𝒄𝒉𝒆𝒋𝒐𝒕𝒂 💖'
-global.titulowm = '𝙃𝙖𝙘𝙝𝙞𝙠𝙤-𝘽𝙤𝙩-𝙈𝘿 🐕‍🦺'
+global.packname = '(☞ﾟ∀ﾟ)☞'
+global.author = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
+global.titulowm = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
 global.wait = '⏱️ 𝗘𝘀𝗽𝗲𝗿𝗲 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻𝘁𝗼...'
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -57,7 +57,7 @@ global.stime = function clockString(seconds) {
   return dDisplay + hDisplay + mDisplay + sDisplay ? dDisplay + hDisplay + mDisplay + sDisplay : '0 Segundos'
 };
 //****************************
-global.wm2 = `▸ ${dia} ${fecha}\n▸ 𝙷𝚊𝚌𝚑𝚒𝚔𝚘-𝙱𝚘𝚝`;
+global.wm2 = `▸ ${dia} ${fecha}\n▸ 𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝`;
 global.waitt = '⏱️ 𝗘𝘀𝗽𝗲𝗿𝗲 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻𝘁𝗼...';
 global.waittt = '⏱️ 𝗘𝘀𝗽𝗲𝗿𝗲 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻𝘁𝗼...';
 global.waitttt = '⏱️ 𝗘𝘀𝗽𝗲𝗿𝗲 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻𝘁𝗼...';
